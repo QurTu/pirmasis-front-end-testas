@@ -1,0 +1,23 @@
+div {
+    display: inline-block;
+    background-color: red;
+    width: 350px;
+    text-align: center;
+    margin: 50px 30px;
+    padding: 30px 20px;
+}
+h1 {
+    display: inline-block;
+    font-size: 30px;
+    line-height: 40px;
+    color: #fff;
+    text-decoration: line-through;
+}
+p {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 30px;
+    color:green;
+    text-decoration: underline;
+    
+}
